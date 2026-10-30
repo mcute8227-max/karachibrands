@@ -1,0 +1,8 @@
+{
+  "name": "Remix Karachi Brands Online",
+  "description": "A premium e-commerce platform featuring original unstitched collections, secure payments, and an intuitive dashboard for seamless inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
